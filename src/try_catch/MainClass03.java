@@ -21,6 +21,7 @@ public class MainClass03 {
 			
 		} catch (Exception e) {
 			e.printStackTrace();
+			// 모든 예외 상황 (Exception)
 		}
 		System.out.println("다음 문장들 실행");
 		
